@@ -1,20 +1,89 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Yoo TaeSeung</h1>
+<p align="center">✨ Frontend Developer ✨</p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgudusol%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 💼 Experience
 
-![TaeSeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudusol&show_icons=true&theme=radical)
+#### 📌 코드크레인 – ICT 학점연계 프로젝트 인턴십 (2023.08 ~ 2024.01)
 
-<!--
-**gudusol/gudusol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+고객 요구사항과 UX를 고려한 웹 개발과 실무 협업을 경험했습니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+
+#### 🧮 Pointer – 수학 문제 해설 및 진단/처방 서비스 (2025.01 ~)  
+**Role:** Frontend Lead  
+- 사용자 문제 풀이 페이지(Next.js) 및 관리자 문제 관리 페이지(React) 개발  
+
+#### 🍊 제주 체험 농장 주문 서비스 (2024.08 ~)  
+**Role:** 기획 · 디자인 · 프론트엔드 개발  
+- 상품 주문 및 택배 접수 자동화 서비스 개발  
+- 현재까지 누적 1800건 이상의 택배 접수 처리  
+
+#### 🧑‍🤝‍🧑 PICK!PLE – 클래스 모임 플랫폼 (2024.07 ~ 2024.10)  
+**Role:** Frontend Lead (SOPT AppJam 해커톤)  
+- 모임 생성, 멤버 관리, 일정 공유 등 핵심 기능 개발  
+- **데모데이 최우수상 수상**
+
+---
+
+### 📚 Activities
+
+- 🎙 **SOPT 34기~35기**
+  - 34기 웹파트원, 35기 웹파트장
+
+---
+
+### ⚙️ Tech Stack
+
+<!-- Language & Framework -->
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+</div>
+
+<!-- UI Development -->
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+</div>
+
+<!-- State & Data Management -->
+<div>
+  <img src="https://img.shields.io/badge/TanStack_Query-00435B?style=flat&logo=reactquery&logoColor=FE4153"/>
+  <img src="https://img.shields.io/badge/Jotai-000000?style=flat&logo=ghostery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zod-3E77E9?style=flat&logo=zod&logoColor=white"/>
+</div>
+
+<!-- Styling -->
+<div>
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Emotion-9B51E0?style=flat&logo=emotion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+</div>
+
+<!-- Tooling & Dev Experience -->
+<div>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+</div>
+
+<!-- Infra & Monitoring -->
+<div>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white"/>
+</div>
+<br/>
+<div>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=gudusol&show_icons=true&theme=radical" height="180" />
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=remicon99" height="180" />
+
+</div>
+
+
